@@ -100,7 +100,7 @@ ACTIVE [Name] SKSEscripts
 [URL] (not available on nexusmods.com just google it and follow their installation guide)
 
 ACTIVE [Name] poisonIvan 
-[URL] (only available by messaging Lemon on discord)
+[URL] (only available by messaging Lemon on discord or in this repo)
 
 
 ## Installation guide:
