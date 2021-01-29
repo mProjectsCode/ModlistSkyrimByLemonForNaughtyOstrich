@@ -3,8 +3,8 @@
 ACTIVE [Name] A Quality World Map - 8.4 A Quality World Map - Classic with All Roads 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/5804
 
-ACTIVE [Name] Alternate Start - Live Another Life - SSE - Alternate Start - LiveAnother Life 
-[URL] https://www.nexusmods.com/skyrimspecialedition/mods/272
+~~ACTIVE [Name] Alternate Start - Live Another Life - SSE - Alternate Start - LiveAnother Life 
+[URL] https://www.nexusmods.com/skyrimspecialedition/mods/272~~
 
 ACTIVE [Name] Audio Overhaul for Skyrim SE - Audio Overhaul Skyrim (3.3.2) 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/12466
