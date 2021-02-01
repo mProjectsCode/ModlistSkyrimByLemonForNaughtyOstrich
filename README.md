@@ -33,6 +33,9 @@ ACTIVE [Name] Man Those Borders SSE - Man Those Borders
 ACTIVE [Name] Neurotoxic Spider Venom - NSV - Neurotoxic Spider Venom - NSV 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/39062
 
+ACTIVE [NAME] No Grass In Objects - Grass Control v6	
+[URL] https://www.nexusmods.com/skyrimspecialedition/mods/42161
+
 ACTIVE [Name] Noble Skyrim Mod HD-2K - A. Noble Skyrim - FULL PACK_2K 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/21423
 
@@ -60,8 +63,8 @@ ACTIVE [Name] Simply Bigger Trees SE - (formerly SkySight SBT) - Simply Bigger T
 ACTIVE [Name] Skyrim 2020 Parallax by Pfuscher - Parallax - Helgen 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/2347
 
-ACTIVE [Name] Perfect Terrain LOD - Terrain LOD for Noble Skyrim 
-[URL] https://www.nexusmods.com/skyrimspecialedition/mods/39563
+~~ACTIVE [Name] Perfect Terrain LOD - Terrain LOD for Noble Skyrim 
+[URL] https://www.nexusmods.com/skyrimspecialedition/mods/39563~~
 
 ACTIVE [Name] SSE Parallax Shader Fix (BETA) - SSE Parallax Shader Fix v1.0 (BETA) 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/31963
