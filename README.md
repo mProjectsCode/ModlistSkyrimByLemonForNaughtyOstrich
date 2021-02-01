@@ -33,9 +33,6 @@ ACTIVE [Name] Man Those Borders SSE - Man Those Borders
 ACTIVE [Name] Neurotoxic Spider Venom - NSV - Neurotoxic Spider Venom - NSV 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/39062
 
-ACTIVE [NAME] No Grass In Objects - Grass Control v6	
-[URL] https://www.nexusmods.com/skyrimspecialedition/mods/42161
-
 ACTIVE [Name] Noble Skyrim Mod HD-2K - A. Noble Skyrim - FULL PACK_2K 
 [URL] https://www.nexusmods.com/skyrimspecialedition/mods/21423
 
